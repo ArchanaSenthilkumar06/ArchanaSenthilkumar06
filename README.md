@@ -10,7 +10,7 @@
 
 ### 🧠 About Me
 
-- 💡 I'm currently working on **Mind Mate AI (EduMorph)** — a smart student assistant using **AI to beat procrastination**  
+- 💡 I'm currently working on **Mind Mate AI** — a smart student assistant using **AI to beat procrastination**  
 - 🛠️ Tech enthusiast exploring **Python, AI, Data Structures, and Full-Stack Web Dev**
 - 💬 Ask me about **student management systems**, **HTML/CSS/JS projects**, or **design thinking**
 - 🎓 B.Tech student in Artificial Intelligence & Data Science  
@@ -22,7 +22,7 @@
 
 Here are a few of my highlighted repositories:
 
-- 🎯 [**Mind Mate AI (EduMorph)**](https://github.com/ArchanaSenthilkumar06/mind-mate-ai)  
+- 🎯 [**Mind Mate AI**](https://github.com/ArchanaSenthilkumar06/mind-mate-ai)  
   An intelligent student planner that helps learners prepare smartly and stay focused using personalized suggestions.
 
 - 🎬 [**Movie Theatre Seating Arranger**](https://github.com/ArchanaSenthilkumar06/movie-theatre-seating)  
